@@ -1,0 +1,2 @@
+# SQL
+inquiries in SQL
