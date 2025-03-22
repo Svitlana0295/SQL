@@ -1,5 +1,5 @@
 # SQL
 inquiries in SQL
 
-ЗАПИТИ SQL 
+ SQL 
 
